@@ -1,0 +1,5 @@
+version: "0.0.1"
+description: "An API to manage NVM (Non-Volatile Memory) on ESP32 using the NVS (Non-Volatile Storage) library. It was developed in ESP32-S3 board."
+dependencies:
+  - idf: ">=5.0"
+url: "https://github.com/PedroLuisDionisioFraga/esp32s3_nvm-api"
