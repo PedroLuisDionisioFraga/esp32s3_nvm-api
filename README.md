@@ -19,7 +19,7 @@ A simple and efficient Non-Volatile Memory (NVM) driver for ESP32 microcontrolle
 Add the component to your project using the IDF Component Manager:
 
 ```bash
-idf.py add-dependency "esp32-nvm-driver"
+idf.py add-dependency "pedroluisdionisiofraga/nvm-api^1.0.0"
 ```
 
 ### Manual Installation
