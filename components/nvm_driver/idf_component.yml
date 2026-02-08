@@ -4,5 +4,19 @@ license: "MIT"
 description: "An API to manage NVM (Non-Volatile Memory) on ESP32 using the NVS (Non-Volatile Storage) library. It was developed in ESP32-S3 board."
 url: "https://github.com/PedroLuisDionisioFraga/esp32s3_nvm-api"
 repository: "https://github.com/PedroLuisDionisioFraga/esp32s3_nvm-api"
+documentation: "https://github.com/PedroLuisDionisioFraga/esp32s3_nvm-api/tree/main/README.md"
+issues: "https://github.com/PedroLuisDionisioFraga/esp32s3_nvm-api/issues"
+targets:
+  - esp32
+  - esp32c5
+  - esp32c6
+  - esp32s2
+  - esp32s3
+  - esp32p4
+tags:
+  - esp32
+  - nvm
+  - nvs
+  - nvs_flash
 dependencies:
   idf: ">=5.0"
