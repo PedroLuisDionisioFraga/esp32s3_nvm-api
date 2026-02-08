@@ -5,7 +5,7 @@ dependencies:
     version: 5.5.2
   pedroluisdionisiofraga/nvm-api:
     component_hash: 
-      ece2f9baae1cefebf9d92eda2818607331dac8950036a7ffb10581ec4b31a5e9
+      f0026c2ce3b92008e256867919dab4fc04e0cca1b616ccc355830225ced1eed3
     dependencies:
     - name: idf
       require: private
@@ -13,10 +13,10 @@ dependencies:
     source:
       registry_url: https://components.espressif.com/
       type: service
-    version: 1.0.0
+    version: 1.0.1
 direct_dependencies:
 - idf
 - pedroluisdionisiofraga/nvm-api
-manifest_hash: a4ad8f5fc3cd7a83850b00d9fe743fb7fcd0507b609bf0f3261b537d722443a0
+manifest_hash: c6751454573b7667db2bf836babc8f2028f2f94feb66b69ab92e5acd347d4ba9
 target: esp32
 version: 2.0.0
