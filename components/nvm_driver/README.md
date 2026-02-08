@@ -12,6 +12,17 @@ The maximum **key** length is currently 15 characters.\
 - zero-terminated string
 - variable length binary data, like blob (binary large object).
 
+## Supported Targets
+- ESP32-WROOM-32
+- ESP32-S2
+- ESP32-S3
+- ESP32-C3
+- ESP32-C5
+- ESP32-C6
+- ESP32-H2
+- ESP32-H4
+- ESP32-P4
+
 ## References
 - [ESP-IDF documentation](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/storage/nvs_flash.html#_CPPv423nvs_open_from_partitionPKcPKc15nvs_open_mode_tP12nvs_handle_t)
 - [ESP-IDF NVS Example](https://github.com/espressif/esp-idf/tree/master/examples/storage/nvs/nvs_rw_value)
