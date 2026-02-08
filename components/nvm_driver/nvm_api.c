@@ -9,6 +9,8 @@
  *
  */
 
+#include "nvm_api.h"
+
 #include <esp_log.h>
 #include <esp_system.h>
 #include <freertos/FreeRTOS.h>
@@ -16,8 +18,6 @@
 #include <inttypes.h>
 #include <nvs.h>
 #include <nvs_flash.h>
-
-#include "nvm.h"
 
 #define DEBUG 1
 
