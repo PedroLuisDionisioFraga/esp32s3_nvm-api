@@ -19,8 +19,6 @@ tags:
   - nvs
   - nvs_flash
 examples:
-  - path: "examples/basic"
-    name: "Basic Usage"
-    description: "A simple example demonstrating how to use the NVM API to store and retrieve data from NVS."
+  - path: ../../examples/basic
 dependencies:
-  - idf: ">=5.0"
+  idf: ">=5.0"
